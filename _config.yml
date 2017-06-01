@@ -8,10 +8,10 @@ skills: "IT Consultant"
 meta_author: Miyamasu Dave
 
 # Google webmaster tools
-google_verify:
+google_verify: A22lhqwyvoOLDXtWJjvbZXZF5OG-2kbs_UGDMXSEmUk
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+bing_verify: 5006EDA165C2F3155B3B4A4F98932BD7
 
 # Contact form:
 # - static : pass through formspree.io to validate email sending
