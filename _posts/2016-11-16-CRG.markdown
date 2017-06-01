@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2016-08-26
+img: crg.png
+alt: CRG
+project-date: November 2016
+client: CRG
+category: Application Re-architecture
+description: A little application architecture fore-thought can go a long way. Dave assisted CRG team to re-architect their ASP.NET application to leverage a three layer design that separated application concerns.
+
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2016-12-05
+img: uptech.png
+alt: Uptech Ideas
+project-date: December 2016
+client: Uptech
+category: Web Security Training
+description: Uptech's class of startups all depend upon technology to gain competitive advantage in the market.  Dave presented basic web application security principles to the portfolio companies to aid them in building security into their products.
+
+---

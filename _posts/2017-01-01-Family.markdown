@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2017-01-01
+img: miyamasu.png
+alt: Family
+project-date: January 2017
+client: Family
+category: Build my family
+description: I care deeply about my family, and they deserve my highest priority. I took a break from freelancing when we welcomed our newest family member, Esther, into the world.  The most important work I will ever do is the work I do at home!
+
+---
