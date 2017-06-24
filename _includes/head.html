@@ -1,9 +1,16 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    {% comment %}
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> 
+    {% endcomment %}
+
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
+    
+    {% comment %}
+        <meta name="description" content="{{ site.description }}">
+    {% endcomment %}
+
     <meta name="keywords" content="{{ site.keywords }}" />
     {% if site.meta_author %}<meta name="author" content="{{ site.meta_author }}">{% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
