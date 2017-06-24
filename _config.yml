@@ -2,8 +2,8 @@
 title: Dave Miyamasu
 email: dave@miyamasu.co
 url: https://miyamasu.co
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "miyamasu, dave, IT consulting, cincinnati"
+description: "Dave is an independent IT consultant living and working in Cincinnati. He loves his wife, his children and working with development teams."
+keywords: "miyamasu, dave, family, freelance, security, IT consulting, IT security, cincinnati"
 skills: "IT Consultant"
 meta_author: Miyamasu Dave
 
@@ -63,3 +63,8 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# jekyll sitemap plugin
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
