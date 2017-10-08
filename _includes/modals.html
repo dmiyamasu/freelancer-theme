@@ -16,14 +16,24 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                            {% if post.quote %}
+                            
+                            <blockquote class="blockquote text-center">
+                                <p class="mb-0">"{{post.quote}}"</p>
+                                <footer class="blockquote-footer">{{ post.quote-person}}</footer>
+                            </blockquote>
+                                <a href="{{ post.img2link }}" target="_blank" >
+                                    <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.img2alt }}">
+                                </a>
+                            </p>
+                            {% endif %} 
                             {% if post.img2 %}
                                 <p>
                                     <a href="{{ post.img2link }}" target="_blank" >
                                         <img src="img/portfolio/{{ post.img2 }}" class="img-responsive img-centered" alt="{{ post.img2alt }}">
                                     </a>
                                 </p>
-                            {% endif %} 
-                            
+                            {% endif %}                           
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a>{{ post.client }}</a>

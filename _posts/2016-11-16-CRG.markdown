@@ -8,5 +8,7 @@ project-date: November 2016
 client: CRG
 category: Application Re-architecture
 description: A little application architecture fore-thought can go a long way. Dave assisted CRG team to re-architect their ASP.NET application to leverage a three layer design that separated application concerns.
+quote: Dave opened my eyes to new ways of thinking about application architecture. His guidance helped me to understand how to better handle and protect our data, which is paramount in our research organization.
+quote-person: Phil, Director of Analytics
 
 ---
