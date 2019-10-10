@@ -1,3 +1,6 @@
+TODO:
+- Upgrade to new theme: https://jamstackthemes.dev/?utm_campaign=Netlify+Newsletter+-+October+2019&utm_content=Netlify+Newsletter+-+October+2019&utm_medium=email_action&utm_source=customer.io , https://github.com/le4ker/personal-jekyll-theme
+
 Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
 =========================
 
